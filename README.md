@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jiaulislam
 - 👀 I’m interested in building softwares.
-- 🌱 I’m currently learning django
-- 💞️ I’m looking to collaborate on coding.
+- 🌱 I’m currently learning python machine learning.
+- 💞️ I’m looking to collaborate
 - 📫 reach me at jiaulislam.ict.bd@gmail.com
 
 <!---
