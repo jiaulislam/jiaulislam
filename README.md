@@ -17,7 +17,7 @@
 - 📚 Currently learning about **clean architecture**, **wasm**, and **advanced techniques of FastAPI**.
 - 🛠️ Working on **microservices**, **fintech API**, **wasm**, and **React** professionally.
 - 👯 Looking to collaborate on **python projects**.
-- 🥰 Building **[Amar-Pay](https://github.com/jiaulislam/moneybag_backend)**, **[HRSM ETL](https://github.com/jiaulislam/db-pushpull-service)**, & many more as pet projects.
+- 🥰 Building **[Amar-Pay](https://github.com/jiaulislam/moneybag_backend)**, **[HRMS ETL](https://github.com/jiaulislam/db-pushpull-service)**, & many more as pet projects.
 
 #### What I like to disscuss about? 
 - 💬 Ask me about `web APIs` `system design` `scalability` `design patterns` `data structures` `coding speed hacks` `clean code` `feasibility` and `requirement analysis` `choice of frameworks` and `tech culture`.
