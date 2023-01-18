@@ -58,9 +58,6 @@
 [![GitHub Streak](https://api.githubtrends.io/user/svg/jiaulislam/langs?time_range=one_year&loc_metric=changed&theme=dark)](https://git.io/streak-stats)
 [![GitHub Streak](https://api.githubtrends.io/user/svg/jiaulislam/repos?time_range=one_year&include_private=True&loc_metric=changed&theme=dark)](https://www.githubtrends.io/wrapped/jiaulislam)
 
-### GitHub Statistics
-![GitHub Statistics](https://github.com/jiaulislam/jiaulislam/blob/main/github-wrapped.png?raw=true)
-
 #### What companies have I worked for?
 <p left="center">
   <a href="https://www.pragatilife.com/">
