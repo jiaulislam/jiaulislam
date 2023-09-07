@@ -60,6 +60,9 @@
 
 #### What companies have I worked for?
 <p left="center">
+  <a href="#">
+    <img src="https://waltonbd.com/image/catalog/new_website/icon/logo/social_link_share_logo.jpg" alt="wdtil" height=80 width=150 />
+  </a>
   <a href="https://www.pragatilife.com/">
     <img src="https://www.pragatilife.com/images/banners/pragati-Life-Ins-Logo-Eng.png" height=50 width=250>
   </a>
