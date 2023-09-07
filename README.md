@@ -11,7 +11,7 @@
 - Developed products for **fintech, hrms, accounts, retail,** and **logistics** business domains.
 
 #### What I'm doing?
-- 🏢 Working at **[Pragati Life Insurance](https://www.pragatilife.com/)** as a **Senior Executive Officer**.
+- 🏢 Working at **[Walton Digi-Tech Industries Ltd](https://waltondigitech.com/)** as a **Senior Assistant Director**.
 - 👨‍💻 Writing `Python` `SQL` `PHP` `HTML` `CSS` `JavaScript`.
 - 🌍 Mostly active on <a href="https://www.linkedin.com/in/jiaulislam"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height=20></a> and the **Python & SQLAlchemy community**.
 - 📚 Currently learning about **clean architecture**, **wasm**, and **advanced techniques of FastAPI**.
