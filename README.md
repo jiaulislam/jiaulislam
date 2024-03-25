@@ -25,9 +25,9 @@
 #### What my skill set looks like?
 - 🖥 **Front-end:** 
   - **📜 Languages:** • `👨‍🔧 JavaScript` • `🧚🏻‍♂️ HTML` • `👨🏻‍🎨 CSS` • `👨‍🔧 Bootstrap` • `👨‍🏭 SASS`
-  - **🔬 Frameworks:**  • `🧙🏻 React` 
+  - **🔬 Frameworks:**  • `🧙🏻 React` • `🧙🏻 next.js` 
   - **🌐 Web:** • [React](https://reactjs.org/)
-  - **🗳 UI toolkits:** • [React MUI](https://mui.com/)
+  - **🗳 UI toolkits:** • [React MUI](https://mui.com/) • [shadcn UI](https://ui.shadcn.com/)
 - 🗄️ **Back-end:**
   - **📜 Languages:** • `🧙🏻‍♂️ Python > 3.8`
   - **🔭 Frameworks:** • [FastAPI](https://fastapi.tiangolo.com/) • [Flask](https://flask.palletsprojects.com/en/2.2.x/) • [Django](https://www.djangoproject.com/) • [SQLAlchemy](https://www.sqlalchemy.org/)
