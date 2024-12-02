@@ -72,7 +72,7 @@
     <img src="./pragati.png" height=80 width=80>
   </a>
   <a href="http://www.steponegroup.com/" target="_blank">
-    <img src="./utsp.jepg" height=80 width=80> 
+    <img src="./utsp.jpeg" height=80 width=80> 
   </a>
 </p>
 
