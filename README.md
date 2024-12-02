@@ -64,7 +64,7 @@
     <img src="./strativ.png" alt="wdtil" height=80 width=80 />
   </a>
   <a href="https://waltondigitech.com/">
-    <img src="./walton.png" alt="wdtil" height=80 width=100 />
+    <img src="./walton.png" alt="wdtil" height=80 width=120 />
   </a>
   <a href="https://www.pragatilife.com/">
     <img src="https://www.pragatilife.com/images/banners/pragati-Life-Ins-Logo-Eng.png" height=50 width=250>
