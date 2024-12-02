@@ -60,16 +60,16 @@
 
 #### What companies have I worked for?
 <p left="center">
-  <a href="https://strativ.se/en">
+  <a href="https://strativ.se/en" target="_blank">
     <img src="./strativ.png" alt="wdtil" height=80 width=80 />
   </a>
-  <a href="https://waltondigitech.com/">
+  <a href="https://waltondigitech.com/" target="_blank">
     <img src="./walton.png" alt="wdtil" height=80 width=120 />
   </a>
-  <a href="https://www.pragatilife.com/">
+  <a href="https://www.pragatilife.com/" target="_blank">
     <img src="https://www.pragatilife.com/images/banners/pragati-Life-Ins-Logo-Eng.png" height=50 width=250>
   </a>
-  <a href="http://www.steponegroup.com/">
+  <a href="http://www.steponegroup.com/" target="_blank">
     <img src="http://www.steponegroup.com/apanel/admin/home_image/h101.png" height=60> 
   </a>
 </p>
