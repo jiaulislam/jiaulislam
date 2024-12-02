@@ -69,7 +69,7 @@
 </p>
 <p>
   <a href="https://www.pragatilife.com/" target="_blank">
-    <img src="https://www.pragatilife.com/images/banners/pragati-Life-Ins-Logo-Eng.png" height=80 width=150>
+    <img src="./pragati.png" height=80 width=80>
   </a>
   <a href="http://www.steponegroup.com/" target="_blank">
     <img src="http://www.steponegroup.com/apanel/admin/home_image/h101.png" height=60> 
