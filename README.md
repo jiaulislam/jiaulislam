@@ -12,12 +12,11 @@
 
 #### What I'm doing?
 - 🏢 Working at **[Strativ](https://strativ.se/en)** as a **Senior Software Engineer**.
-- 👨‍💻 Writing `Python` `SQL` `PHP` `HTML` `CSS` `JavaScript`.
+- 👨‍💻 Writing `Python` `SQL` `Typescript` `React` `Next.JS` `JavaScript`.
 - 🌍 Mostly active on <a href="https://www.linkedin.com/in/jiaulislam"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height=20></a> and the **Python & SQLAlchemy community**.
-- 📚 Currently learning about **clean architecture**, **wasm**, and **advanced techniques of FastAPI**.
-- 🛠️ Working on **microservices**, **fintech API**, **wasm**, and **React** professionally.
+- 📚 Currently learning about **clean architecture**, **solid**, and **advanced techniques of GoLang**.
+- 🛠️ Working on **Microservices**, **Fintech API**, **Django**, and **React** professionally.
 - 👯 Looking to collaborate on **python projects**.
-- 🥰 Building **[Amar-Pay](https://github.com/jiaulislam/moneybag_backend)**, **[HRMS ETL](https://github.com/jiaulislam/db-pushpull-service)**, & many more as pet projects.
 
 #### What I like to disscuss about? 
 - 💬 Ask me about `web APIs` `system design` `scalability` `design patterns` `data structures` `coding speed hacks` `clean code` `feasibility` and `requirement analysis` `choice of frameworks` and `tech culture`.
