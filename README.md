@@ -61,7 +61,7 @@
 #### What companies have I worked for?
 <p left="center">
   <a href="https://strativ.se/en">
-    <img src="./strativ.png" alt="wdtil" height=80 width=150 />
+    <img src="./strativ.png" alt="wdtil" height=80 width=80 />
   </a>
   <a href="https://waltondigitech.com/">
     <img src="https://waltonbd.com/image/catalog/new_website/icon/logo/social_link_share_logo.jpg" alt="wdtil" height=80 width=150 />
