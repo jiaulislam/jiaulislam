@@ -64,7 +64,7 @@
     <img src="./strativ.png" alt="wdtil" height=80 width=80 />
   </a>
   <a href="https://waltondigitech.com/" target="_blank">
-    <img src="./walton.png" alt="wdtil" height=80 width=120 />
+    <img src="./walton.png" alt="wdtil" height=80 width=100 />
   </a>
 </p>
 <p>
