@@ -66,8 +66,10 @@
   <a href="https://waltondigitech.com/" target="_blank">
     <img src="./walton.png" alt="wdtil" height=80 width=120 />
   </a>
+</p>
+<p>
   <a href="https://www.pragatilife.com/" target="_blank">
-    <img src="https://www.pragatilife.com/images/banners/pragati-Life-Ins-Logo-Eng.png" height=50 width=250>
+    <img src="https://www.pragatilife.com/images/banners/pragati-Life-Ins-Logo-Eng.png" height=50 width='100%'>
   </a>
   <a href="http://www.steponegroup.com/" target="_blank">
     <img src="http://www.steponegroup.com/apanel/admin/home_image/h101.png" height=60> 
