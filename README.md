@@ -54,9 +54,6 @@
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jiaulislam&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-[![GitHub Streak](https://api.githubtrends.io/user/svg/jiaulislam/langs?time_range=one_year&loc_metric=changed&theme=dark)](https://git.io/streak-stats)
-[![GitHub Streak](https://api.githubtrends.io/user/svg/jiaulislam/repos?time_range=one_year&include_private=True&loc_metric=changed&theme=dark)](https://www.githubtrends.io/wrapped/jiaulislam)
-
 #### What companies have I worked for?
 <p left="center">
   <a href="https://strativ.se/en" target="_blank">
@@ -74,11 +71,6 @@
     <img src="./utsp.jpeg" height=80 width=80> 
   </a>
 </p>
-
-#### What are my recent highlights?
-- [featured-a-fintech-api-with **fastapi sqlalchemy mysql pydantic**](https://github.com/jiaulislam/moneybag_backend)
-- [featured-a-etl-job-with **python sqlalchemy-core**](https://github.com/jiaulislam/db-pushpull-service)
-
 
 #### How to get in touch with me?
 <p left="center">
